@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Dogs -a domesticated canid species- Canis familiaris
+author: lithops07
+email: lithops07@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The dog or domestic dog (Canis familiaris or Canis lupus familiaris)
+  is a domesticated descendant of the wolf, and is characterized by an
+  upturning tail, this is a site about them.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  lithops07
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
